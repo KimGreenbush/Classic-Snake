@@ -1,5 +1,5 @@
 # Classic-Snake
-- classic, 8-bit style game
+Classic, 8-bit style game
 
 The first JavaScript game I've completed.
 
